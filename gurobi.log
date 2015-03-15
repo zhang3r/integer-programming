@@ -1,0 +1,155 @@
+
+Gurobi 6.0.0 (win64) logging started 02/09/15 02:33:55
+
+
+Gurobi 6.0.0 (win64) logging started 02/09/15 02:34:41
+
+
+Gurobi Optimizer version 6.0.0 build v6.0.0rc2 (win64)
+Copyright (c) 2014, Gurobi Optimization, Inc.
+
+Read LP format model from file studentSchedule.lp
+Reading time = 0.28 seconds
+(null): 14696 rows, 129601 columns, 393816 nonzeros
+Optimize a model with 14696 rows, 129601 columns and 393816 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 2e+00]
+Found heuristic solution: objective 117
+Presolve removed 160 rows and 72880 columns
+Presolve time: 0.55s
+Presolved: 14536 rows, 56721 columns, 170296 nonzeros
+Variable types: 1 continuous, 56720 integer (56720 binary)
+
+Root relaxation: objective 1.062500e+02, 11170 iterations, 0.25 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  106.25000    0    7  117.00000  106.25000  9.19%     -    1s
+H    0     0                     107.0000000  106.25000  0.70%     -    1s
+
+Explored 0 nodes (18525 simplex iterations) in 1.24 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.070000000000e+02, best bound 1.070000000000e+02, gap 0.0%
+
+Wrote result file 'studentSchedule.sol'
+
+
+Gurobi 6.0.0 (win64) logging started 02/24/15 18:54:39
+
+
+Gurobi Optimizer version 6.0.0 build v6.0.0rc2 (win64)
+Copyright (c) 2014, Gurobi Optimization, Inc.
+
+Read LP format model from file studentSchedule.lp
+Reading time = 0.31 seconds
+(null): 14696 rows, 129601 columns, 393816 nonzeros
+Optimize a model with 14696 rows, 129601 columns and 393816 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 2e+00]
+Found heuristic solution: objective 117
+Presolve removed 160 rows and 72880 columns
+Presolve time: 0.60s
+Presolved: 14536 rows, 56721 columns, 170296 nonzeros
+Variable types: 1 continuous, 56720 integer (56720 binary)
+
+Root relaxation: objective 1.062500e+02, 11170 iterations, 0.28 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  106.25000    0    7  117.00000  106.25000  9.19%     -    1s
+H    0     0                     107.0000000  106.25000  0.70%     -    1s
+
+Explored 0 nodes (18525 simplex iterations) in 1.36 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.070000000000e+02, best bound 1.070000000000e+02, gap 0.0%
+
+Wrote result file 'studentSchedule.sol'
+
+
+Gurobi 6.0.0 (win64) logging started 02/24/15 21:24:31
+
+
+Gurobi Optimizer version 6.0.0 build v6.0.0rc2 (win64)
+Copyright (c) 2014, Gurobi Optimization, Inc.
+
+Read LP format model from file studentSchedule.lp
+Reading time = 0.36 seconds
+(null): 14696 rows, 129601 columns, 393816 nonzeros
+Optimize a model with 14696 rows, 129601 columns and 393816 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 2e+00]
+Found heuristic solution: objective 117
+Presolve removed 160 rows and 72880 columns
+Presolve time: 0.65s
+Presolved: 14536 rows, 56721 columns, 170296 nonzeros
+Variable types: 1 continuous, 56720 integer (56720 binary)
+
+Root relaxation: objective 1.062500e+02, 11170 iterations, 0.31 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  106.25000    0    7  117.00000  106.25000  9.19%     -    1s
+H    0     0                     107.0000000  106.25000  0.70%     -    1s
+
+Explored 0 nodes (18525 simplex iterations) in 1.54 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.070000000000e+02, best bound 1.070000000000e+02, gap 0.0%
+
+Wrote result file 'studentSchedule.sol'
+
+
+Gurobi 6.0.0 (win64) logging started 02/24/15 21:24:59
+
+
+Gurobi Optimizer version 6.0.0 build v6.0.0rc2 (win64)
+Copyright (c) 2014, Gurobi Optimization, Inc.
+
+Read LP format model from file studentSchedule.lp
+Reading time = 0.34 seconds
+(null): 14696 rows, 129601 columns, 393816 nonzeros
+Optimize a model with 14696 rows, 129601 columns and 393816 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [1e+00, 1e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 2e+00]
+Found heuristic solution: objective 117
+Presolve removed 160 rows and 72880 columns
+Presolve time: 0.65s
+Presolved: 14536 rows, 56721 columns, 170296 nonzeros
+Variable types: 1 continuous, 56720 integer (56720 binary)
+
+Root relaxation: objective 1.062500e+02, 11170 iterations, 0.30 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  106.25000    0    7  117.00000  106.25000  9.19%     -    1s
+H    0     0                     107.0000000  106.25000  0.70%     -    1s
+
+Explored 0 nodes (18525 simplex iterations) in 1.48 seconds
+Thread count was 4 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.070000000000e+02, best bound 1.070000000000e+02, gap 0.0%
+
+Wrote result file 'studentSchedule.sol'
+
